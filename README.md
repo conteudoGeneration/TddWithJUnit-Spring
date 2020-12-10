@@ -1,6 +1,6 @@
-# Spring TDD com JUnit
+# Spring TDD com JUnit (Model)
 
-## Primeiro projeto 
+## Testando a Model @NotEmpty
 
 - Antes de fazer o teste unitário vamos construir algumas camadas da aplicação
 
