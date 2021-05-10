@@ -51,6 +51,28 @@
 	</dependencies> 
 ```
 
+## Atualizando as bibliotecas do ApplicationTest
+
+Atualize as bibliotecas do arquivo ApplicationTest
+
+![alt text](https://i.imgur.com/r5zvS0E.png)
+
+```
+package com.generation.Junit2;
+
+import org.junit.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class Junit2ApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
+````````
+
 ## Testando a Model @NotEmpty
 
 - Antes de fazer o teste unitário vamos construir algumas camadas da aplicação
