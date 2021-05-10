@@ -1,5 +1,4 @@
-package integracao.bancodedados.contatos;
-
+package com.generation.Junit2.repository;
 
 import org.junit.Before;
 import org.junit.Test;
@@ -8,13 +7,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.autoconfigure.orm.jpa.DataJpaTest;
 import org.springframework.test.context.junit4.SpringRunner;
 
-import integracao.bancodedados.model.ContatoModel;
-import integracao.bancodedados.repository.ContatoRepository;
+import com.generation.Junit2.model.ContatoModel;
 
-
-//Run with rodará com o spring runner,
-//que suporta testes de integração de interfaces (testa se a 
-//repository está funcionando)
 
 @RunWith(SpringRunner.class)
 @DataJpaTest //melhor testador de JPA

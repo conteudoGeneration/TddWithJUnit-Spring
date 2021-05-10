@@ -1,4 +1,4 @@
-package integracao.bancodedados.model;
+package com.generation.Junit2.model;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
@@ -65,4 +65,4 @@ public class ContatoModel {
 	public void setNome(String nome) {
 		this.nome = nome;
 	}
-}
+} 
