@@ -19,7 +19,6 @@ public class ContatosRepositoryIntegrationTest {
 	@Autowired
 	private ContatoRepository contatoRepository;
 	
-	String message= "Employee ID is null";
 	
 	@Before
 	public void start() {
