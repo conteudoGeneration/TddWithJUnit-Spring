@@ -243,7 +243,7 @@ public class ContatosRepositoryIntegrationTest {
 
 ````
 
-![enter image description here](https://i.imgur.com/JCLImsl.png)
+![enter image description here](https://i.imgur.com/4GoLNsK.png)
 
 
 O mesmo teste é feito por três vezes.
