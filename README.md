@@ -257,6 +257,10 @@ O mesmo teste é feito por três vezes.
  - salvarComDddNulo()
  - salvarComNomeNulo()
 
+## para testar o app
+
+![alt text](https://i.imgur.com/tGWqm3i.png)
+
 ### Qualquer duvida não esqueça de pesquisar dentro projeto guia do gitHub
 
 [Link do github:](https://github.com/conteudoGeneration/TddWithJUnit-Spring) 
