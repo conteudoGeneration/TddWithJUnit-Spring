@@ -1,6 +1,6 @@
 # Spring TDD com JUnit (Model)
 
-## Construa um spring em java 8
+## Construa um spring em java 
 
 ## Não esqueça de colocar as dependencias nescessarias no pom XML
 
