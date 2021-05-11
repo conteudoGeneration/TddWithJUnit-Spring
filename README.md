@@ -216,11 +216,6 @@ public class ContatosRepositoryIntegrationTest {
 		contato = new ContatoModel("Gabriel", "011y", "9xxxxxxx9");
 	}
 	
-	//regra, não aceita exceções, é a maneira de especificar
-	//que a execução de um teste lançará uma exceção
-	//Verifica se o @NotEmpty está funcionando
-
-	
 	@Test (expected = RuntimeException.class)
 	public void salvarComTelNulo() throws Exception {
 		
