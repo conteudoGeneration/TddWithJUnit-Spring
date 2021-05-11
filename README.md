@@ -209,8 +209,6 @@ public class ContatosRepositoryIntegrationTest {
 	@Autowired
 	private ContatoRepository contatoRepository;
 	
-	String message= "Employee ID is null";
-	
 	@Before
 	public void start() {
 		contato = new ContatoModel("Gabriel", "011y", "9xxxxxxx9");
